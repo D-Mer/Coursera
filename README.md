@@ -12,7 +12,9 @@ date: 2018 spring
 
 ## Neural Networks
 
-date: 2020/2/17 spring
+start date: 2020/2/11
+
+finished date: 2020/2/17
 
 | Week |             Exercise              |
 | :--: | :-------------------------------: |
